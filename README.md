@@ -16,7 +16,12 @@ a
 - 📫 How to reach me **pablo@gmail.com**
 
 - ⚡ Fun fact **sleep is the best meditation**
+- 
+-  📄 Know about my experiences at [www.linkedin.com/in/pablo-acevedo-1059511a6](www.linkedin.com/in/pablo-acevedo-1059511a61)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pablo-acevedo-1059511a61" target="blank"><img align="center" src="https://www.shareicon.net/data/2017/06/30/888064_logo_512x512.png" alt="pablo-acevedo-1059511a61" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.java.com/es/download/help/whatis_java.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
